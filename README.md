@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/33256ab8a4b40830809dac1f3b15e979/53a65c422209beca-c0/s500x750/bbc0912d9a69bf6c749e82a0a9bd23f9c5ce6f6d.gifv" width="100%" height="250" />
+<img src="https://64.media.tumblr.com/33256ab8a4b40830809dac1f3b15e979/53a65c422209beca-c0/s500x750/bbc0912d9a69bf6c749e82a0a9bd23f9c5ce6f6d.gifv" width="100%" height="100" />
 <h1 align="center">Hi 👋, I'm Parvas Hossain Piash</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
