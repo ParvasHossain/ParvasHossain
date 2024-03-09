@@ -1,4 +1,4 @@
-<img src="https://edutour.tel-aviv.gov.il/wp-content/uploads/2021/04/14700_4_site-hinuch_banner5.gif" width="100%" height="300px" />
+<img src="https://edutour.tel-aviv.gov.il/wp-content/uploads/2021/04/14700_4_site-hinuch_banner5.gif" width="100%" height="250px" />
 <h1 align="center">Hi 👋, I'm Parvas Hossain Piash</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
